@@ -6,7 +6,7 @@ An aspiring software Developer
 
 From Executing projects in the real world to executing projects in the digital world.
 
-* 🌍  I'm based in between London and Italy (Macerata Region)
+* 🌍  I'm based between London and Italy (Macerata Region)
 * 🖥️  See my portfolio at [My portfolio](http://https://portfolio-bp1e.onrender.com/)
 * 🚀  I'm currently working on [Mentee Portal](http://https://bridging-barriers-fe-amber.vercel.app/)
 * 🧠  I'm learning PHP and MySql
